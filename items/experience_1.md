@@ -1,2 +1,2 @@
 <h1> Student UX Researcher | Student Union  </h1>
-<h5> Temporarily hired through Dr.Goodrum for a hands-on Client Design Thinking 1 Course based in Brantford, Laurier | UX Design </h3>
+<h5> Temporarily hired through Dr.Goodrum for a hands-on Client Design Thinking 1 Course based in Brantford, Laurier | UX Design </h5>
