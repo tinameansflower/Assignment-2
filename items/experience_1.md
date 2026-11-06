@@ -36,8 +36,6 @@
 <p> placeholder </p>
   </details>
 
-<hr>
 <h3> Grade Rating!</h3>
-
 </details>
 </div>
