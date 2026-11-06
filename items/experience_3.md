@@ -1,5 +1,7 @@
+<div class="Content">
+
 <details> 
-<summary><h3> Experience 3 </h3></summary>
+<summary><h3> Experience 4 </h3></summary>
 <h4><em>placeholder</em></h4>
 
 <div class= "Content"> 
@@ -35,4 +37,5 @@
 <p> placeholder </p>
   </details>
 
+</div>
 <hr>
