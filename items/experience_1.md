@@ -1,7 +1,7 @@
 
 <details> 
 <summary><h3> Student UX Researcher | Student Union  </h3></summary>
-<h5> Temporarily hired through Dr.Goodrum for a hands-on Client Design Thinking 1 Course based in Brantford, Laurier | UX Design </h5>
+<h4> <em> Temporarily hired through Dr.Goodrum for a hands-on Client Design Thinking 1 Course based in Brantford, Laurier | UX Design </em> </h4>
   
   <p> Click on the Sections for more Details</p>
 
@@ -13,7 +13,7 @@
     </details>
 
   <details>
-  <summary> <h8> <strong> When did the Experience Occur </strong> </h8> </summary>
+  <summary> <h5> <strong> When did the Experience Occur </strong> </h5> </summary>
   
   <p> My first year, first semester within the UX program at Brantford Laurier.
     UX100 — Design Thinking </p>
@@ -21,23 +21,23 @@
 
 
 <details> 
-      <summary> <h8> <strong> What I enjoyed </strong> </h8> </summary>
+      <summary> <h5> <strong> What I enjoyed </strong> </h5> </summary>
        
   <p> placeholder </p>
 </details>
 
 <details> 
-      <summary> <h8> <strong> Favourite Memory </strong> </h8> </summary>
+      <summary> <h5> <strong> Favourite Memory </strong> </h5> </summary>
 
  <p> placeholder </p>
   </details>
 
 <details> 
-      <summary> <h8> <strong> What I didn't Enjoy </strong> </h8> </summary>
+      <summary> <h5> <strong> What I didn't Enjoy </strong> </h5> </summary>
     
   <p> placeholder </p>
   </details>
 
-<h2> Grade Rating!</h2>
+<h3> Grade Rating!</h3>
 
 </details>
