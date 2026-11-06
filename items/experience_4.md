@@ -1,3 +1,5 @@
+<div class="Content">
+
 <details> 
 <summary><h3> Experience 3 </h3></summary>
 <h4><em>placeholder</em></h4>
@@ -35,4 +37,5 @@
 <p> placeholder </p>
   </details>
 
+</div>
 <hr>
