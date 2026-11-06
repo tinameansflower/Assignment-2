@@ -1,3 +1,5 @@
+<div class="Content">
+
 <details> 
 <summary><h3> Pho Viet King | Job Experience</h3></summary>
 <h4><em>Waitress — Busser — Barista — Hostess</em></h4>
@@ -35,4 +37,6 @@
 <p> placeholder </p>
   </details>
 
+</div>
 <hr>
+
