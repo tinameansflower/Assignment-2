@@ -1,6 +1,6 @@
 
 <details> 
-<summary><h1> Student UX Researcher | Student Union  </h1></summary>
+<summary><h3> Student UX Researcher | Student Union  </h3></summary>
 <h5> Temporarily hired through Dr.Goodrum for a hands-on Client Design Thinking 1 Course based in Brantford, Laurier | UX Design </h5>
   
   <p> Click on the Sections for more Details</p>
