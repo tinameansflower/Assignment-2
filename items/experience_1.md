@@ -4,7 +4,7 @@
 <h4> <em> Temporarily hired through Dr.Goodrum for a hands-on Client Design Thinking 1 Course based in Brantford, Laurier | UX Design </em> </h4>
 
 <div class= "Content"> 
-    <p> Click on the Sections for more Details</p>
+    <p> Click on the Sections for more Details [and an img insert] </p>
 
   <details>
   <summary> <h6> <strong> My Contributions </strong> </h6> </summary>
@@ -37,6 +37,7 @@
 <p> placeholder </p>
   </details>
 
+<hr>
 <h3> Grade Rating!</h3>
 
 </div>
