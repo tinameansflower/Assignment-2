@@ -1,21 +1,20 @@
 <div class="Content">
-
 <details> 
-<summary><h3> Experience 5</h3></summary>
-<h4><em> Placeholder </em></h4>
+<summary><h3> Experience 5  </h3></summary>
+<h4> <em> placeholder </em> </h4>
 
-<div class= "Content"> 
-    <p> Click on the Sections for more Details [and an img insert] </p>
+<p> Click on the Sections for more Details [and an img insert] </p>
 
   <details>
   <summary> <h6> <strong> My Contributions </strong> </h6> </summary>
-  <p> Placeholder </p>
+  <p> placeholder 
+    </p>
     </details>
 
   <details>
   <summary> <h6> <strong> When did the Experience Occur </strong> </h6> </summary>
   
-  <p> Placeholder </p>
+  <p> placeholder </p>
     </details>
 
 
@@ -36,5 +35,7 @@
 <p> placeholder </p>
   </details>
 
+<h3> Grade Rating!</h3>
+</details>
 </div>
-<hr>
+

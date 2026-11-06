@@ -1,22 +1,20 @@
 <div class="Content">
-
 <details> 
-<summary><h3> Pho Viet King | Job Experience</h3></summary>
-<h4><em>Waitress — Busser — Barista — Hostess</em></h4>
+<summary><h3> Experience 2  </h3></summary>
+<h4> <em> placeholder </em> </h4>
 
-<div class= "Content"> 
-    <p> Click on the Sections for more Details [and an img insert] </p>
+<p> Click on the Sections for more Details [and an img insert] </p>
 
   <details>
   <summary> <h6> <strong> My Contributions </strong> </h6> </summary>
-  <p> Placeholder </p>
+  <p> placeholder 
+    </p>
     </details>
 
   <details>
   <summary> <h6> <strong> When did the Experience Occur </strong> </h6> </summary>
   
-  <p> My first year, first semester within the UX program at Brantford Laurier.
-    UX100 — Design Thinking </p>
+  <p> placeholder </p>
     </details>
 
 
@@ -37,6 +35,7 @@
 <p> placeholder </p>
   </details>
 
+<h3> Grade Rating!</h3>
+</details>
 </div>
-<hr>
 
