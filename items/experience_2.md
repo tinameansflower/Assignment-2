@@ -1,7 +1,7 @@
 <div class="Content">
 <details> 
 <summary><h3> Pho Viet King — My Job </h3></summary>
-<h4> <em> Busser | Waitress | Hostess | Food Runner | Dishwasher </em> </h4>
+<h4> <em> Busser | Waitress | Hostess | Food Runner | Dishwasher | Barista</em> </h4>
 
 <p> Click on the Sections for more Details</p>
 
