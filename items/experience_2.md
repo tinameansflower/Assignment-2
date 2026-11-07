@@ -3,11 +3,11 @@
 <summary><h3> Pho Viet King — My Job </h3></summary>
 <h4> <em> Busser | Waitress | Hostess | Food Runner | Dishwasher </em> </h4>
 
-<p> Click on the Sections for more Details [and an img insert] </p>
+<p> Click on the Sections for more Details</p>
 
   <details>
   <summary> <h6> <strong> My Contributions </strong> </h6> </summary>
-  <p> In this job, I started out and took on various tasks, making drinks, serving food along with tea and water, cleaning washrooms, cups, and teacups, assembling the garnish for pho (bean sprouts, basil, cilantro),  clearing tables and cleaning them, and cashing customers out while maintaining good service and creating real bonds with the regulars and customers there. 
+  <p> In this job, I started out and took on various tasks: making drinks, serving food along with tea and water, cleaning washrooms, cups, and teacups, assembling the garnish for pho (bean sprouts, basil, cilantro),  clearing tables and cleaning them, and cashing customers out while maintaining good service and creating real bonds with the regulars and customers there. 
 Originally, I applied to a Joy Sushi all-you-can-eat as a food runner; however, I got referred to this family-owned restaurant, which only has 3 employees total and needed help. Of course, I went to both interviews and ended up choosing Pho Viet King, mainly because of how kind the owners were, and the service and environment were incredibly welcoming and overall friendly; not to say Joy Sushi wasn’t- they were so kind to me, I just felt like I could connect more with customers and be more present.  
     </p>
     </details>
